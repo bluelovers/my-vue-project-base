@@ -1,6 +1,6 @@
 {
-  "name": "my-project-base",
-  "short_name": "my-project-base",
+  "name": "my-vue-project-base",
+  "short_name": "my-vue-project-base",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",

@@ -1,10 +1,17 @@
 {
-  "name": "my-project-base",
+  "name": "my-vue-project-base",
   "version": "0.1.0",
   "private": true,
+  "description": "## Project setup ``` yarn install ```",
+  "license": "ISC",
+  "author": "",
+  "main": "postcss.config.js",
+  "directories": {
+    "test": "tests"
+  },
   "scripts": {
-    "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "serve": "vue-cli-service serve",
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {

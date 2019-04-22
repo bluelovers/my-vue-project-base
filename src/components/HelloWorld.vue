@@ -11,7 +11,6 @@
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-typescript" target="_blank" rel="noopener">typescript</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-pwa" target="_blank" rel="noopener">pwa</a></li>
       <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-unit-mocha" target="_blank" rel="noopener">unit-mocha</a></li>
-      <li><a href="https://www.npmjs.com/package/G:\Users\The Project\nodejs-vue\my-vue-cli-ptrset-001" target="_blank" rel="noopener">G:\Users\The Project\nodejs-vue\my-vue-cli-ptrset-001</a></li>
     </ul>
     <h3>Essential Links</h3>
     <ul>
