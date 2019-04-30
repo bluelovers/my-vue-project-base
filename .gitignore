@@ -77,5 +77,10 @@ yarn-error.log*
 /src/*.js
 /src/*.d.ts
 /src/*.js.map
+
+/src/**/*.js
+/src/**/*.d.ts
+/src/**/*.js.map
+
 !/src/shims-tsx.d.ts
 !/src/shims-vue.d.ts
