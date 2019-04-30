@@ -19,25 +19,25 @@
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-property-decorator": "^8.1.0",
-    "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
+    "vue-router": "^3.0.6",
+    "vuex": "^3.1.0"
   },
   "devDependencies": {
-    "@bluelovers/tsconfig": "^1.0.2",
-    "@types/chai": "^4.1.0",
-    "@types/mocha": "^5.2.4",
+    "@bluelovers/tsconfig": "^1.0.3",
+    "@types/chai": "^4.1.7",
+    "@types/mocha": "^5.2.6",
     "@types/webpack-chain": "^5.2.0",
-    "@vue/cli-plugin-pwa": "^3.6.0",
-    "@vue/cli-plugin-typescript": "^3.6.0",
-    "@vue/cli-plugin-unit-mocha": "^3.6.0",
-    "@vue/cli-service": "^3.6.0",
+    "@vue/cli-plugin-pwa": "^3.7.0",
+    "@vue/cli-plugin-typescript": "^3.7.0",
+    "@vue/cli-plugin-unit-mocha": "^3.7.0",
+    "@vue/cli-service": "^3.7.0",
     "@vue/test-utils": "1.0.0-beta.29",
-    "chai": "^4.1.2",
-    "sass": "^1.18.0",
+    "chai": "^4.2.0",
+    "sass": "^1.19.0",
     "sass-loader": "^7.1.0",
     "terser": "3.17.0",
     "terser-webpack-plugin": "^1.2.3",
-    "typescript": "^3.4.3",
-    "vue-template-compiler": "^2.5.21"
+    "typescript": "^3.4.5",
+    "vue-template-compiler": "^2.6.10"
   }
 }
